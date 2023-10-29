@@ -41,9 +41,10 @@ Input valid mathematical expressions following the prompts.
 If you'd like to contribute, please fork the repository and then create a pull request.
 
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License. See licence file.
 
-### Acknowledgments
+### Authors and Acknowledgments
+Owen Murunga, Joseph Ochieng, Amos Nzuki, Deche Wilson, Tamima Shee, Joseph Matiko, James Kiala, Abdulkadir Said.
 Microsoft Docs - C#
 
 ### Contact and Support 
