@@ -1,7 +1,7 @@
 # Calculator Console App
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-3.1%20%7C%205.0%20%7C%206.0-blue)
 ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
-A simple console-based calculator application built using C#.
+- A simple console-based calculator application built using C#.
 ![Calculator App Screenshot](user_interface.png)
 
 
